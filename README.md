@@ -7,8 +7,7 @@
 ---
 
 ### 🧐 **About Me**  
-Hey there! 👋 I'm **Rana**, an Information Technology student passionate about AI, machine learning, and data mining. I'm currently exploring how AI can be applied in real-world scenarios, including smart crowd management and accident classification. Excited to learn and grow in this field! 
-
+Hey there! 👋 I'm **Rana**, an Information Technology student passionate about AI, machine learning, and data mining. I'm currently exploring how AI can be applied in real-world scenarios.
 ---
 
 ### 🎓 **Education**  
