@@ -2,7 +2,7 @@
 
 #### **📬 Connect with me:**  
 📧 **Email:** rana.k.alnajashi@gmail.com  
-📧 **LinkedIn:** https://sa.linkedin.com/in/ranaalngashy
+📧 **LinkedIn:** https://sa.linkedin.com/in/ranaalnajashi
 
 ---
 
