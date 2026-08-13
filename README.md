@@ -1,4 +1,4 @@
-#  **Hi 👋, I'm Rana | AI & ML Enthusiast **
+#  **Hi, I'm Rana | AI & ML Enthusiast**
 
 #### **📬 Connect with me:**  
 📧 **Email:** rana.k.alnajashi@gmail.com  
